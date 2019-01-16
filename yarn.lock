@@ -22,7 +22,7 @@
     lodash "^4.17.5"
     web3-provider-engine "14.0.6"
 
-"@0x/abi-gen-wrappers@^2.0.0", "@0x/abi-gen-wrappers@^2.2.0":
+"@0x/abi-gen-wrappers@^2.2.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@0x/abi-gen-wrappers/-/abi-gen-wrappers-2.2.0.tgz#1c86ea6bab87647a6329b1a2decd82f3d65e6af5"
   dependencies:
